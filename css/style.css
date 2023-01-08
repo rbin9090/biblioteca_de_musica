@@ -1,0 +1,144 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html,body{
+	width: 100%;
+	height: 100%;
+
+}
+
+.container{
+	width: 100%;
+	height: 100%;
+
+
+
+
+
+}
+
+.mold{
+	width: 98%;
+	
+	margin: 0 auto;
+	height: 1000px;
+	background: #d9dbda;
+
+}
+
+
+
+.player-container{
+	margin: 0 auto;
+	top: 20px;
+	width: 80%;
+	height: auto;
+	background-size: cover;
+	background-image: url("../img/music_nethome.png");
+	 /*box-shadow:  10px 18px #212120;*/
+	 border-radius: 0 0 10px;
+	 text-align: center;
+
+}
+
+form{
+	width: 100%;
+	height: 150px;
+	background: #3f48cc;
+	padding: 10px;
+
+}
+label{
+	color: #6028a0;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+ .buttons{
+	background: #3f48cc;
+	width: 100%;
+	height: 90%;
+}
+
+input[type=search] {
+  width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+
+  width: 10%;
+  padding: 12px 10px;
+  color: white;
+  background: #000008;
+  opacity: 0.3;
+  font-size: 20px;
+  border: 0;
+  margin: 8px 0;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+
+input[type=submit]:hover{
+	color: orange;
+}
+/*lista de musicas*/
+
+
+
+
+}
+
+
+
+input[type="file"] {
+    display: none;
+}
+
+#button-search{
+	 width: 10%;
+  padding: 12px 10px;
+  color: white;
+  background: #000008;
+  opacity: 0.3;
+  font-size: 20px;
+  border: 0;
+  margin: 8px 0;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+
+.musiclist_php{
+	width: 100%;
+	height: auto;
+	/*overflow-y: scroll;*/
+
+
+
+
+}
+
+
+
+
+.musiclist_php ul{
+	list-style: none;
+}
+
+.musiclist_php ul li{
+	font-size: 15px;
+	background: #7c84dc;
+	width: 80%;
+	margin: 0 auto;
+	padding: 15px;
+
+}
+
+/*ok*/

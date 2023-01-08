@@ -1,0 +1,56 @@
+  
+
+index.php  ( html + jquery)
+_______________________________________________________________
+
+
+        BACK-END (ADMIN)
+
+      nova pasta (pages)
+        -header.php
+        -lateral.php
+	-stilo.css
+
+
+INDEX.PHP
+
+
+      - LISTA DE MIDIAS
+      -ADICIONAR NOVAS MIDIAS
+      -DELETAR MIDIAS
+     -EDITAR.PHP
+     ARQUIVO.php
+     uploads dos arquivos
+     listar arquivos
+     deletar arquivos
+
+
+-__LOGIN.PHP
+ 
+  -functions.php
+  -conection.php
+  -CRUD
+  -session
+_______________________________________________________________________
+
+BANCO DE DADOS 
+
+MYSQL 
+
+
+-user(id,nome,senha)
+-midias(id,title,urlfile,type,date)
+
+
+
+
+________________________________________________________________________
+SERVIDOR    (APACHE + MYSQL)
+
+
+
+
+
+ -
+
+
